@@ -1,0 +1,26 @@
+.background{
+	background-color: rgb(135, 206, 250);
+}
+.font{
+	font-size: 25px
+}
+.font2{
+	font-size: 40px
+}
+.padding{
+	padding: 100px
+}
+.padding2{
+	padding: 300px
+}
+.gif{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.font3{
+	font-size: 75px
+}
+.font4{
+	font-size: 34px
+}
